@@ -1,0 +1,141 @@
+{
+    "positions": [
+      {
+        "title": "1,23,441",
+        "subTitle": "Live Job"
+      },
+      {
+        "title": "91220",
+        "subTitle": "Companies"
+      },
+      {
+        "title": "2,34,200",
+        "subTitle": "Job Seekers"
+      },
+      {
+        "title": "1,03,761",
+        "subTitle": "Employers"
+      },
+      {
+        "title": "500,000",
+        "subTitle": "Total Opportunities"
+      }
+    ],
+  
+    "jobs": [
+      {
+        "id": 1,
+        "title": "Frontend Developer",
+        "positionsAvailable": 5
+      },
+      {
+        "id": 2,
+        "title": "Backend Developer",
+        "positionsAvailable": 8
+      },
+      {
+        "id": 3,
+        "title": "Data Scientist",
+        "positionsAvailable": 3
+      },
+      {
+        "id": 4,
+        "title": "Product Manager",
+        "positionsAvailable": 2
+      },
+      {
+        "id": 5,
+        "title": "UX/UI Designer",
+        "positionsAvailable": 4
+      },
+      {
+        "id": 6,
+        "title": "DevOps Engineer",
+        "positionsAvailable": 6
+      },
+      {
+        "id": 7,
+        "title": "Mobile App Developer",
+        "positionsAvailable": 7
+      },
+      {
+        "id": 8,
+        "title": "Full Stack Developer",
+        "positionsAvailable": 10
+      },
+      {
+        "id": 9,
+        "title": "Machine Learning Engineer",
+        "positionsAvailable": 4
+      },
+      {
+        "id": 10,
+        "title": "Cloud Architect",
+        "positionsAvailable": 6
+      },
+      {
+        "id": 11,
+        "title": "Cybersecurity Analyst",
+        "positionsAvailable": 5
+      },
+      {
+        "id": 12,
+        "title": "QA Engineer",
+        "positionsAvailable": 3
+      }
+    ],
+    
+    "companies": [
+      {
+        "title": "Microsoft",
+        "location": "Street 10 Karachi, Pakistan",
+        "openPositions": 10
+      },
+      {
+        "title": "Google",
+        "location": "123 Silicon Valley, California, USA",
+        "openPositions": 15
+      },
+      {
+        "title": "Amazon",
+        "location": "Amazon Campus, Seattle, USA",
+        "openPositions": 20
+      },
+      {
+        "title": "Facebook",
+        "location": "1 Hacker Way, Menlo Park, California, USA",
+        "openPositions": 25
+      },
+      {
+        "title": "Apple",
+        "location": "1 Infinite Loop, Cupertino, California, USA",
+        "openPositions": 30
+      },
+      {
+        "title": "Tesla",
+        "location": "3500 Deer Creek Road, Palo Alto, California, USA",
+        "openPositions": 12
+      },
+      {
+        "title": "Spotify",
+        "location": "Birger Jarlsgatan 61, Stockholm, Sweden",
+        "openPositions": 8
+      },
+      {
+        "title": "Netflix",
+        "location": "100 Winchester Circle, Los Gatos, California, USA",
+        "openPositions": 10
+      },
+      {
+        "title": "Adobe",
+        "location": "345 Park Avenue, San Jose, California, USA",
+        "openPositions": 14
+      },
+      {
+        "title": "IBM",
+        "location": "1 New Orchard Road, Armonk, New York, USA",
+        "openPositions": 18
+      }
+    ]
+  }
+  
